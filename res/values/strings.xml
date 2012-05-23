@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="hello">Hello World, BarcodeReadTestActivity!</string>
     <string name="app_name">BarcodeReadTest</string>
 
+    <string name="error_launch_camera_failed">カメラの起動に失敗しました</string>
 </resources>
